@@ -1,2 +1,1 @@
-# AI_Applications_for_Neurodiverse_Learning
-AI Applications for Neurodiverse Learning
+# AI Applications for Neurodiverse Learning
